@@ -70,7 +70,7 @@ A powerful command-line tool for quickly scaffolding new projects with predefine
 1. Clone or download this repository
 2. Run the setup script:
    ```bash
-   chmod +x setup.sh
+   chmod +x setup.sh createproj generate_template.sh
    ./setup.sh install
    ```
 3. Restart your terminal or source your shell configuration:
