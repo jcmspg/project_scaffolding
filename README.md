@@ -275,31 +275,6 @@ Run `createproj --help` for usage information and examples.
 
 ## Contributing
 
-1. Fork the repository
-2. Create your feature branch
-3. Add or modify templates in `generate_template.sh`
-4. Update version numbers in scripts
-5. Test your changes
-6. Submit a pull request
-
-## License
-
-This project is open source. Feel free to use, modify, and distribute.
-
-## Changelog
-
-### Version 1.0
-
-- Initial release
-- Support for C, C++, Python, JavaScript, Frontend, Rust, and Go
-- GitHub integration
-- Intelligent installation system
-- Version management
-
-// ...existing code...
-
-## Contributing
-
 Contributions are welcome! Here's how you can help improve this project:
 
 ### Ways to Contribute
