@@ -2,6 +2,8 @@
 
 A powerful command-line tool for quickly scaffolding new projects with predefined templates for multiple programming languages. This tool creates project structures with common files, build configurations, and best practices for each supported language.
 
+![project init demo](assets/banner.png)
+
 ## Table of Contents
 
 - [Features](#features)
